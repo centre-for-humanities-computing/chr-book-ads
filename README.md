@@ -45,6 +45,8 @@ Please cite our [paper](link coming soon) if you use the code, dataset or embedd
 │
 ├── data/                      <- Data used for the analysis in notebooks.
 │
+├── prompt_optimization/       <- Data related to the prompt optimization task with GPT.
+│
 │
 ├── notebooks/                 <- Jupyter notebooks.
 │   │
