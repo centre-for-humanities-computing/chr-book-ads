@@ -7,7 +7,7 @@
 
 This repository contains code for embeddings, plots and results of our paper: 
 
-"Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)" which will be presented at CHR2025.
+"Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)" which will be presented at CHR2025 and is included in the [proceedings](https://anthology.ach.org/volumes/vol0003/reading-beyond-center-modeling-book-encounters-in/) of the conference.
 
 ## Useful directions 📌
 
@@ -24,7 +24,20 @@ The dataset used in this paper is available at [huggingface](https://huggingface
 
 The trained embeddings are also available at [huggingface](https://huggingface.co/datasets/chcaa/periphery-aviser-e5).
 
-Please cite our [paper](link coming soon) if you use the code, dataset or embeddings:
+Please cite our [paper](https://anthology.ach.org/volumes/vol0003/reading-beyond-center-modeling-book-encounters-in/) if you use the code, dataset or embeddings:
+
+```
+@article{10.63744@YxKHrB4ZCThp,
+  title = {Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)},
+  author = {Alie Lassche and Rie Eriksen and Pascale Feldkamp and Johan Heinsen and Katrine Baunvig and Kristoffer Nielbo},
+  year = {2025},
+  journal = {Anthology of Computers and the Humanities},
+  volume = {3},
+  pages = {95--118},
+  editor = {Taylor Arnold, Margherita Fantoli, and Ruben Ros},
+  doi = {10.63744/YxKHrB4ZCThp}
+}
+```
 
 
 ## Project Organization 🏗️
