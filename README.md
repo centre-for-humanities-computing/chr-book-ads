@@ -1,4 +1,4 @@
-# Reading Beyond the Center
+# Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)
 
 <a href="https://chc.au.dk"><img src="https://github.com/centre-for-humanities-computing/intra/raw/main/images/onboarding/CHC_logo-turquoise-full-name.png" width="25%" align="right"/></a>
 
@@ -7,7 +7,7 @@
 
 This repository contains code for embeddings, plots and results of our paper: 
 
-"Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)" which will be presented at CHR2025 and is included in the [proceedings](https://anthology.ach.org/volumes/vol0003/reading-beyond-center-modeling-book-encounters-in/) of the conference.
+Lassche, Alie, Rie Eriksen, Pascale Feldkamp, Johan Heinsen, Katrine Baunvig, and Kristoffer Nielbo. ‘Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)’. Anthology of Computers and the Humanities 3 (November 2025): 95–118. https://doi.org/10.63744/YxKHrB4ZCThp.
 
 ## Useful directions 📌
 
@@ -20,9 +20,9 @@ Some useful directions:
 
 ## Data & paper 📝
 
-The dataset used in this paper is available at [huggingface](https://huggingface.co/datasets/chcaa/chr-book-ads-articles), which is an earlier version and subset of this [dataset](https://huggingface.co/datasets/JohanHeinsen/ENO).
+The dataset used in this paper is available at [HuggingFace](https://huggingface.co/datasets/chcaa/chr-book-ads-articles), which is an earlier version and subset of this [dataset](https://huggingface.co/datasets/JohanHeinsen/ENO).
 
-The trained embeddings are also available at [huggingface](https://huggingface.co/datasets/chcaa/periphery-aviser-e5).
+The trained embeddings are also available at [HuggingFace](https://huggingface.co/datasets/chcaa/periphery-aviser-e5).
 
 Please cite our [paper](https://anthology.ach.org/volumes/vol0003/reading-beyond-center-modeling-book-encounters-in/) if you use the code, dataset or embeddings:
 
